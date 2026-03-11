@@ -210,7 +210,7 @@ ul {
   padding: 8px 16px;
   font-size: 0.88rem;
   font-weight: 500;
-  color: var(--text-on-primary);
+  color: var(--text-dark);
   border-radius: var(--radius-full);
   transition: all var(--transition);
   opacity: 0.85;
@@ -363,7 +363,7 @@ ul {
 
 .hero-tagline {
   font-size: 1.2rem;
-  color: rgba(255, 255, 255, 0.9);
+  color: var(--text-dark);
   max-width: 520px;
   margin: 0 auto 36px;
   font-style: italic;
@@ -920,6 +920,12 @@ ul {
 .social-icon svg {
   width: 20px;
   height: 20px;
+}
+
+.social-icon-img {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
 }
 
 .footer-bottom {
