@@ -917,14 +917,30 @@ ul {
   box-shadow: 0 4px 16px rgba(198, 165, 92, 0.4);
 }
 
+.social-icon.social-instagram {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  border-color: transparent;
+}
+
+.social-icon.social-instagram:hover {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  border-color: transparent;
+  box-shadow: 0 4px 16px rgba(214, 36, 159, 0.4);
+}
+
+.social-icon.social-instagram .social-icon-img {
+  width: 38px;
+  height: 38px;
+}
+
 .social-icon svg {
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
 }
 
 .social-icon-img {
-  width: 22px;
-  height: 22px;
+  width: 30px;
+  height: 30px;
   object-fit: contain;
 }
 
@@ -1141,5 +1157,97 @@ ul {
   .faq-question {
     font-size: 1rem;
     padding: 18px 4px;
+  }
+}
+
+/* =====================================================
+   FLOATING ACTION BUTTONS
+   ===================================================== */
+.floating-actions {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  z-index: 999;
+}
+
+.floating-btn {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition);
+  border: 2px solid #ffffff;
+}
+
+.floating-btn:hover {
+  transform: translateY(-4px) scale(1.05);
+}
+
+.floating-whatsapp {
+  background-color: #25D366;
+}
+.floating-whatsapp:hover {
+  box-shadow: 0 8px 24px rgba(37, 211, 102, 0.4);
+}
+
+.floating-instagram {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
+.floating-instagram:hover {
+  box-shadow: 0 8px 24px rgba(214, 36, 159, 0.4);
+}
+.floating-instagram .floating-icon {
+  width: 52px;
+  height: 52px;
+}
+
+.floating-phone {
+  background-color: var(--accent);
+  color: var(--text-on-accent);
+}
+.floating-phone:hover {
+  box-shadow: 0 8px 24px rgba(198, 165, 92, 0.4);
+}
+
+.floating-icon {
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+}
+
+.floating-svg-icon {
+  width: 28px;
+  height: 28px;
+  stroke: #ffffff;
+}
+
+@media (max-width: 480px) {
+  .floating-actions {
+    bottom: 20px;
+    right: 20px;
+    gap: 10px;
+  }
+  .floating-btn {
+    width: 50px;
+    height: 50px;
+  }
+  .floating-icon {
+    width: 28px;
+    height: 28px;
+  }
+  .floating-instagram .floating-icon {
+    width: 44px;
+    height: 44px;
+  }
+  .floating-svg-icon {
+    width: 24px;
+    height: 24px;
   }
 }
