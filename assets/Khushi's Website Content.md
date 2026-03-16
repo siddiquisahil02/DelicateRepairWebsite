@@ -1,64 +1,3 @@
-# Website Design:
-
-Website will be a single page application, with navbar button that scroll you down to that section.
-
-### Navbar
-
-Logo | Name Home | Meet Your Therapist | Services | Learn More | Contact us
-
-### Hero Section
-
-Delicate Repair Therapy with image as bakground and transpolating gif image
-\<Tagline\>
-
-LOGO
-
-Why “Delicate Repair”?
-
-Meet Your THerapist
-
-Service
-
-FAQ
-
-COntact US
-
-Footer
-
-# **HomePage Tentative**
-
-**Delicate Repair introduction**
-
-The name _Delicate Repair_ was chosen to represent our belief that true healing isn’t forged in forceful battles, but in the delicate mending of what’s been fractured. Like the deer in our logo that wears thorns like scars from old wounds it carried but right from the same thorns, there are roses that show resilience birthing from survival’s grace.That’s you: resilient, beautiful in your scars.
-
-Our name holds that truth tenderly: healing isn’t a storm to battle, but a soft unfolding, petal by petal. Here, in this space, we sit with your story, every part and layer that makes you who you are without rush or fixing, but to listen intentionally, with no-judgement and steady presence because we know the weight of those thorns is real and sometimes dark, but it can be carried .
-
-We will move through it together, helping those roses bloom from what once wounded without forging, at a gentle pace. You’re safe and seen here.
-
-**MY INTRODUCTION**
-
-Hi, I’m Khushi (she/her), a trauma-informed therapist based in India and the founder of Delicate Repair therapy. I specialise in helping people heal from trauma, anxiety, attachment wounds, addiction, and the complex emotional patterns that can leave you feeling stuck, overwhelmed, or disconnected from yourself and others.
-
-My work is grounded in depth, safety, and collaboration. I am trained in EMDR, Internal Family Systems (IFS),CBT and I am a certified trauma- specialist. I also integrate somatic-focused approaches and body-based tools in a way that honours and regulates your nervous system and your pace. I believe that even the parts of you that feel “too much,” angry, avoidant, self-critical, or wanting to disappear, are protective in some way. Together, we gently build awareness, emotional regulation, and new ways of relating to yourself and the people in your life.
-
-At delicate repair,I draw from evidence-based approaches to support clients in:
-
-- processing traumatic experiences and easing the symptoms that continue to linger
-
-- building a greater sense of safety in their bodies through nervous system regulation and somatic practices
-
-- setting and maintaining boundaries without being weighed down by shame or guilt
-
-- understanding and healing attachment wounds and repetitive relationship patterns
-
-- making sense of identity shifts, cultural grief, and the complexity of living in the “in-between”
-
-- moving beyond survival mode toward a life that feels intentional, grounded, and aligned with their values
-
-Whether you’re working through trauma, struggling in relationships, feeling misunderstood, caught in cycles of shame or substance use, or trying to make sense of intense emotions, therapy with me is a space where you don’t have to perform or be “fixed.” I focus on understanding before changing and change follows from there.
-
-My goal is to support you in rediscovering your sense of self, direction, and wellbeing with care that deeply respects where you’ve been and who you are in the process of becoming, help you build insight and tools, and walk alongside you as you rebuild from the inside out, I’d be glad to connect.This work matters deeply to me, and I hold it with care.
-
 # **Services/Hyperlinks**
 
 ## **What is EMDR?**
@@ -73,7 +12,7 @@ EMDR uses bilateral stimulation (eye movements, tapping, or alternating tones) t
 
 One of the powerful aspects of EMDR is that you do **not** have to retell your trauma in detail. You won’t be asked to narrate your story repeatedly. While you’re always welcome to share as much or as little as you want, much of the processing happens internally through images, sensations, emotions, and shifts in belief — not through prolonged verbal recounting
 
-### **What is Internal Family Systems?**
+## **What is Internal Family Systems?**
 
 Internal Family Systems (IFS) is a powerful therapeutic approach often used in the treatment of complex trauma (C-PTSD), dissociation, and dissociative disorders. IFS is both a theory and a psychotherapy model, and many consider it a paradigm shift in how we understand the mind.
 
@@ -85,7 +24,7 @@ Through Internal Family Systems, you learn to identify, listen to, and develop c
 
 By understanding and working with your internal system in this way, you can gain clarity about your symptoms, patterns, and inner conflicts — and begin moving toward greater internal balance and self-leadership.
 
-**TRAUMA THERAPY**
+## **TRAUMA THERAPY**
 
 ### **What is Trauma?**
 
@@ -184,7 +123,7 @@ The goal is not just to talk about what happened, but to help your nervous syste
 
 Trauma affects the mind, the body, and relationships. Healing involves working with all three, at a pace that feels safe and sustainable for you.
 
-**Couples’ therapy**
+## **Couples’ therapy**
 
 Couples counseling can be supportive when partners are moving through a difficult season in their relationship. Most couples experience moments of disconnection, recurring conflict, or relational “stuck points.” Working with a therapist can help you understand what’s happening beneath the surface — whether the goal is to reconnect, repair, or separate in a thoughtful and respectful way.
 
@@ -196,7 +135,7 @@ Couples therapy isn’t about “fixing” one partner or offering quick solutio
 
 In the process, we explore the factors each person brings into the relationship: attachment styles, family-of-origin patterns, trauma history (where relevant), communication habits, conflict responses, and coping strategies. Many recurring issues — including codependent patterns, frequent fighting, or breakdowns in communication — make more sense when viewed through this broader lens.
 
-**Counselling for addiction**
+## **Counselling for addiction**
 
 Addiction is rarely about a simple failure of will. It is not resolved by deciding, once and for all, to stop. When we look more closely, addiction is almost always an attempt to manage pain. It is a response ,not to pleasure but to suffering.
 
@@ -210,7 +149,7 @@ In my work, addiction is approached through a trauma-informed and attachment-inf
 
 Recovery is not about moral correction. It is about healing the wound that made the addiction necessary in the first place.
 
-**Counselling for depression**
+### **Counselling for depression**
 
 You’ve been feeling unmotivated, disconnected, and hard on yourself. You’re withdrawing more than you used to. It may feel like you’re constantly trying just to stay afloat — putting in effort, but not actually getting anywhere. And perhaps one of the hardest parts is feeling misunderstood. People tell you to “just get out,” “stay busy,” or “think positive,” but that advice doesn’t touch the heaviness you’re carrying.
 
@@ -260,7 +199,7 @@ If you recognize yourself in these symptoms, you are not alone. Whether your dep
 
 ---
 
-## **How I Can Help**
+### **How I Can Help**
 
 I use evidence-based treatments for depressive disorders, including:
 
@@ -308,7 +247,7 @@ My work integrates approaches such as:
 
 Depression can narrow your world, but it does not have to define your future. With the right support, movement is possible — even when it feels out of reach right now.
 
-**Counselling for anxiety**
+## **Counselling for anxiety**
 
 It can feel incredibly frustrating — and at times frightening — especially if panic attacks are part of your experience. When anxiety is constant, it’s hard to remember what calm or ease even feels like. Instead, it may feel like you’re stuck on an emotional roller-coaster you never chose to be on.
 
@@ -320,7 +259,7 @@ Anxiety is common — and it is treatable. With the right therapeutic support an
 
 ---
 
-## **Anxiety Disorders Treated**
+### **Anxiety Disorders Treated**
 
 I work collaboratively with clients experiencing:
 
@@ -340,7 +279,7 @@ I work collaboratively with clients experiencing:
 
 ---
 
-## **Common Signs and Symptoms of Anxiety**
+### **Common Signs and Symptoms of Anxiety**
 
 - Persistent worry or intrusive thoughts
 
@@ -366,7 +305,7 @@ Anxiety affects both the mind and the body. It is not “just overthinking” �
 
 ---
 
-## **How Therapy Can Help**
+### **How Therapy Can Help**
 
 I use evidence-based treatments for anxiety, including:
 
@@ -400,7 +339,7 @@ I use evidence-based treatments for anxiety, including:
 
 Anxiety can shrink your world — but with structured, collaborative work, it doesn’t have to continue running your life.
 
-**EATING DISORDER**
+## **EATING DISORDER**
 
 It can feel exhausting to have your thoughts constantly revolve around food, your body, or control. Eating may feel charged with anxiety, guilt, or shame. At times, restricting, bingeing, purging, or obsessing over food might seem like the only way to cope — even when part of you knows it’s causing harm.
 
@@ -412,7 +351,7 @@ Eating disorders are serious — but they are treatable. With structured, compas
 
 ---
 
-## **Eating Disorders Treated**
+### **Eating Disorders Treated**
 
 I work collaboratively with clients experiencing:
 
@@ -432,7 +371,7 @@ I work collaboratively with clients experiencing:
 
 ---
 
-## **Common Signs and Symptoms of Eating Disorders**
+### **Common Signs and Symptoms of Eating Disorders**
 
 - Preoccupation with weight, shape, calories, or food rules
 
@@ -458,7 +397,7 @@ Eating disorders affect both psychological and physical health. They are not abo
 
 ---
 
-## **How Therapy Can Help**
+### **How Therapy Can Help**
 
 I use evidence-based and trauma-informed approaches, including:
 
@@ -491,202 +430,3 @@ I use evidence-based and trauma-informed approaches, including:
 - Move toward nourishment without fear or rigidity
 
 Recovery is not about control or perfection. It is about building safety — in your body, your emotions, and your relationship with yourself. With support, change is possible.
-
-# **Refund and Cancellation**
-
-**Cancellation, Refund & Fee Policy**
-
-At Delicate Repair, this space is built on trust, intention, and care. That extends to how we handle the practical side of our work together. This policy exists not to create barriers, but to hold the container of our therapeutic relationship with the same steadiness we bring to the work itself. Please read through it gently and reach out if anything needs clarification.
-
-**1\. Cancelling or Rescheduling Your Appointment**
-
-We understand that life doesn't always move in straight lines, and sometimes plans need to shift. We only ask that you let us know as early as you can.
-
-If you need to cancel or reschedule, please give at least **24 hours' notice**. This allows us to offer your slot to someone else who may be waiting and needing support.
-
-If your session was booked **5–7 days or more in advance**, we request a minimum of **48 hours' notice** for any cancellations or rescheduling.
-
-If you are on a **recurring slot**, please also notify us at least **48 hours in advance** if you need to cancel or move your session.
-
-Appointments can be rescheduled a **maximum of two times**. We hold this boundary with care, not rigidity, but consistency in our meetings is part of what makes the work possible.
-
-If you arrive or join **20 minutes or more after your scheduled start time** without prior notice, the session will be considered cancelled, and the full session fee will apply. Sessions cannot be extended to accommodate late arrivals.
-
-We know that emergencies happen, and sometimes notice isn't possible. If that's the case, please reach out as soon as you're able. We will always do our best to support you.
-
-**2\. Refund Policy**
-
-Refunds at Delicate Repair are considered under the following circumstances. Any request outside of these will be reviewed individually, with the final decision resting with Khushi.
-
-**Overcharging or accounting errors:** If an error on our end results in overcharging, the excess amount will be refunded or carried forward toward your next session.
-
-**Cancellation with sufficient notice:** If you have prepaid for a session and cancel at least 24 hours in advance, a full refund will be issued minus any applicable administrative fees.
-
-**Cancellation within 24 hours:** If a cancellation is made within 24 hours of your session, the full session fee applies, and a refund will not be issued for that session.
-
-**Sessions already conducted:** No refunds will be provided for sessions that have taken place.
-
-**Dissatisfaction after your first session:** If you feel the fit isn't right after your first session, you're welcome to share that with us. We will do our best to understand your concerns, and a full, partial, or pro-rated refund may be considered depending on the situation.
-
-**Dissatisfaction after multiple sessions:** If concerns arise after more than one session, we'll explore what's feeling difficult together. Refunds will be considered for remaining prepaid sessions only where dissatisfaction cannot be resolved.
-
-**Service deficiency:** If a concern about the quality of service is raised and validated upon review, we will work to find a meaningful resolution. This may include a replacement session rather than a refund, depending on the circumstances.
-
-**Pausing or discontinuing therapy:** If you need to pause or stop therapy and have prepaid sessions remaining, a credit note will be issued rather than a refund. This credit note is transferable and may be used by a friend or family member.
-
-**Refund request deadline:** All refund requests must be submitted within **10 days** of your most recent session. Requests made after this window will not be considered.
-
-Refunds will be processed within **14 business days** of your request and returned via your original payment method unless otherwise discussed.
-
-**3\. Fee Structure**
-
-Our fees reflect the depth of care, training, and ongoing professional development that goes into this work. To sustain that, session fees may be revised by a small percentage **once a year**, with at least **30 days' written notice** given before any change takes effect.
-
-If a session extends beyond the scheduled **50–55 minutes**, an additional fee will be charged proportionately based on your session rate.
-
-If you have any questions or concerns about fees, please don't hesitate to bring them into the space — these conversations are welcome and handled with the same care as everything else here.
-
-**4\. Dissatisfaction & Feedback**
-
-Your experience matters deeply. If something doesn't feel right, whether it's the therapeutic relationship, the pace, or something else entirely, please feel welcome to name it, either directly with Khushi or by reaching out to us separately.
-
-Feedback is how we grow and how we make sure this space remains what it's meant to be: safe, attuned, and genuinely helpful. If dissatisfaction continues, please refer to the Refund Policy above for the applicable terms.
-
-**5\. Scope & Policy Updates**
-
-This policy applies to all paid counselling sessions at Delicate Repair. It is subject to review and may be updated from time to time. You will be informed of any changes as they are made.
-
-_If you have any questions about any part of this policy, please reach out. We're here._
-
-# **Confidentiality & Privacy Policy**
-
-**Confidentiality & Privacy Policy**
-
-Everything you bring into this space is held with the utmost care and respect. Confidentiality isn't just a professional obligation here, it is a core part of what makes this space safe enough to do the work. What you share stays between us, and this policy is here to make that promise transparent and clear.
-
-**1\. What Confidentiality Means Here**
-
-Everything shared within our sessions, your words, your story, your process, is strictly confidential. It will not be disclosed to anyone without your explicit written consent, except in the specific circumstances outlined below.
-
-**2\. Limits of Confidentiality**
-
-There are a small number of situations where confidentiality may need to be carefully and compassionately set aside. These are not decisions made lightly, and wherever possible, they will be discussed with you first.
-
-Confidentiality may be limited when there is a serious and credible risk of harm to you or to someone else, when the safety of a child or vulnerable adult is a concern, or when disclosure is required by law or a court order.
-
-In any of these situations, only the information necessary to address the concern will be shared, and only with the appropriate people or authorities. You will be informed wherever it is safe and appropriate to do so.
-
-**3\. Your Information & How It Is Stored**
-
-The personal information you share, including your name, contact details, and anything relevant to your care, is collected solely for the purpose of providing you with safe, informed, and continuous support.
-
-Your information is stored securely and accessed only by Khushi. It is never sold, shared, or used for any purpose beyond your care. Any digital records are kept in password-protected, encrypted systems. Paper records, if any, are stored in a secure, private location.
-
-**4\. Session Notes**
-
-Brief notes may be kept following sessions to support continuity of care. These are private, held securely, and are not shared with third parties without your consent, except where required by the limits of confidentiality described above.
-
-**5\. Your Rights**
-
-You have the right to ask what information is held about you, to request corrections to any inaccuracies, and to understand how your information is being used. If you have any questions about your data, please reach out directly.
-
-**6\. Third Parties & Referrals**
-
-If at any point we agree together that a referral or consultation with another professional would support your care, your information will only be shared with your knowledge and consent.
-
-**7\. Policy Updates**
-
-This policy may be updated from time to time to reflect changes in practice or legal requirements. You will be informed of any meaningful changes.
-
-_This space holds your story with care. If anything in this policy raises questions or concerns, please bring them to Khushi directly, that conversation is always welcome._
-
-# **FAQs**
-
-1. What does a first session look like?  
-   The first session is a space to get to know each other. There's no pressure to share everything right away. We'll talk about what brought you here, what you're hoping to find, and I'll share how I work. It's as much about you getting a sense of whether this feels like the right fit as it is about me understanding your situation.
-
-2. How often are sessions?  
-   Frequency varies depending on what you need. Most clients begin with weekly sessions. As things shift, we may move to fortnightly. The rhythm is collaborative — your life, schedule, and pace shape it.
-
-3. Are sessions online or in-person?  
-   Sessions are currently conducted online via video call, making therapy accessible wherever you are in India. This also means flexible scheduling, without the commute.
-
-4. Do I need a diagnosis to start therapy?  
-   Not at all. Many people come to therapy without a formal diagnosis and that's completely fine. You don't need a label to deserve support. If you feel something is off, or if life just feels harder than it should, that's reason enough.
-
-5. Is everything confidential?  
-   Yes. Confidentiality is a foundational part of the therapeutic relationship. Everything you share is protected. There are specific, legally required exceptions (e.g., if there is an imminent risk of harm) which will be clearly explained at the start of our work together.
-
-6. How long does therapy take?  
-   There's no fixed answer. Some people work through a specific challenge in a few months; others engage in longer-term work to address deeper patterns. We'll check in regularly about how things are going and what feels right for the next phase of your journey.
-
-7. What if I've had a bad experience with therapy before?  
-   That's worth naming — and it matters. Past therapeutic experiences (even difficult ones) tell us something important about what you need. I take the fit between therapist and client seriously, and I'm always open to feedback about how things are going.
-
-# **Additonal Info**
-
-**Trauma doesn’t always announce itself loudly.**
-
-Sometimes it lives in the tightness of your chest before a difficult conversation. In the patterns you can't seem to break. In the way your body remembers what your mind tries hard not to remember.
-
-It can be quiet, yet heavy and dark.
-
-**But it can be carried. And you don’t have to carry it all alone anymore.**
-
-**Reasons to seek therapy could look like:**
-
-- Experiencing physiological symptoms induced by anxiety such as getting sick often, breaking into rashes or hives, chronic body ache without a reason, frequent gastrointestinal issues ( dry mouth, indigestion, diarrhea and belching etc), headaches, hyperventilation
-
-- anxiety that makes it hard to function or experiencing anxiety and panic attacks
-
-- Exhaustion that never goes away or experiencing fatigue.
-
-- Rage/anger that feels consuming.
-
-- Severe menstrual cramps without any significant diagnosed disorder such as PCOS/PCOD or Endometriosis
-
-- Disconnection from yourself and others
-
-- Feeling guilty all the time
-
-- confusion about why you abandon yourself in relationships.
-- Being unable to place boundaries
-
-Or maybe you've done some healing already, but you know there are deeper layers waiting to be held. Whatever brought you here, I'm glad you're listening to that quiet voice that says something can be different.
-
-**Here's how we work together.**
-
-I work with trauma by moving through it rather than around it.
-
-Without re-traumatizing.
-
-Together, we'll dismantle the beliefs that keep you small, restore belongingness and connection with yourself, and process suppressed emotions. We'll shift from self-blame to understanding that, as Dr. Gabor Maté says, _"Trauma is a self-regulation issue."_
-
-**This work is delicate, yes. But it's also powerful.**
-
-Together, we'll create a space where your nervous system can finally exhale. Where there's room for curiosity about the origins of these big, confusing feelings, without judgment.
-
-You deserve more than just management.
-
-## **CTA: “Book a Session”**
-
-## **What We Can Help You With:**
-
-### **Who You help:**
-
-- Addiction
-- C-PTSD
-- Eating Disorder
-- Abuse (Sexual, Emotional, Physical)
-- Relationship and Family Therapy
-- Trauma
-- Depression
-- Anxiety
-- EMDR/IFS
-- CBT
-- Body Image and Easting Disorders
-- Enmeshment Trauma
-- LGBTQ Affirmative Therapy
-- Mood Disorders
-- Relationships
-- Boundaries/Communication

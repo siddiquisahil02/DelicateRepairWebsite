@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Allow: /services/
+Allow: /assets/
+Allow: /styles.css
+Allow: /script.js
+
+# Allow specific useful AI bots to crawl the public pages
+User-agent: GPTBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://delicaterepair.com/sitemap.xml
